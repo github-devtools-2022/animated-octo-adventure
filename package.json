@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/github-devtools-2022/animated-octo-adventure#readme"
 }
+"publishConfig": {
+  "@sukruth-ms:registry":"https://npm.pkg.github.com"
+ }
